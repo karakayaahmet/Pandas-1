@@ -6,7 +6,7 @@ b = pd.Series(a)
 
 print(b)
 
-print[b[0]]
+print(b[0])
 
 print(b[0:3])
 
